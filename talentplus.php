@@ -7,7 +7,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
+    <link href="assets/img/favicon.ico" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -19,14 +19,14 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
     <!-- Libraries Stylesheet -->
-    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="lib/animate/animate.min.css" rel="stylesheet">
+    <link href="assets/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="assets/lib/animate/animate.min.css" rel="stylesheet">
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
 </head>
 
 <body>
@@ -74,7 +74,7 @@
 <div class="container-fluid position-relative p-0">
     <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
         <a href="index.html" class="navbar-brand p-0">
-            <img src="img/uriht.png" style="width: 110px; height: 60px;" alt="Uriht Solutions"> <!-- Set width and height -->
+            <img src="assets/img/uriht.png" style="width: 110px; height: 60px;" alt="Uriht Solutions"> <!-- Set width and height -->
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="fa fa-bars"></span>
@@ -198,7 +198,7 @@
             </div>
             <div class="col-lg-5" style="min-height: 500px;">
                 <div class="position-relative h-100">
-                    <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="img/talentplus.jpg" style="object-fit: cover;">
+                    <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="assets/img/talentplus.jpg" style="object-fit: cover;">
                 </div>
             </div>
         </div>
@@ -289,11 +289,11 @@
 <!-- JavaScript Libraries -->
 <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-<script src="lib/wow/wow.min.js"></script>
-<script src="lib/easing/easing.min.js"></script>
-<script src="lib/waypoints/waypoints.min.js"></script>
-<script src="lib/counterup/counterup.min.js"></script>
-<script src="lib/owlcarousel/owl.carousel.min.js"></script>
+<script src="assets/lib/wow/wow.min.js"></script>
+<script src="assets/lib/easing/easing.min.js"></script>
+<script src="assets/lib/waypoints/waypoints.min.js"></script>
+<script src="assets/lib/counterup/counterup.min.js"></script>
+<script src="assets/lib/owlcarousel/owl.carousel.min.js"></script>
 
 <!-- Smooth Scroll JavaScript -->
 <script>
@@ -306,6 +306,6 @@
 </script>
 
 <!-- Template Javascript -->
-<script src="js/main.js"></script>
+<script src="assets/js/main.js"></script>
 </body>
 </html>
